@@ -1,1 +1,1 @@
-Various checkButton implementation.
+Various checkButton implementations.
